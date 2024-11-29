@@ -1,5 +1,7 @@
 
-export default function CompaniesSection (){
+import React from 'react'
+
+export const CompaniesSection = () => {
     <>
     </>
    }
