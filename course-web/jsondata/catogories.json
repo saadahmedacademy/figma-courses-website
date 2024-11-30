@@ -1,0 +1,56 @@
+[
+    {    
+        "id":"1",
+        "title":"Design & Development",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col1.svg"
+    },
+    {    
+        "id":"2",
+        "title":"Marketing",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col2.svg"
+    },
+    {    
+        "id":"3",
+        "title":"Development",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col3.svg"
+    },
+    {    
+        "id":"4",
+        "title":"Communication",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col4.svg"
+    },
+    {    
+        "id":"5",
+        "title":"Digital Marketing",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col5.svg"
+    },
+    {    
+        "id":"6",
+        "title":"Self Development",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col6.svg"
+    },
+    {    
+        "id":"7",
+        "title":"Business",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col7.svg"
+    },
+    {    
+        "id":"8",
+        "title":"Finance",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col8.svg"
+    },
+    {    
+        "id":"9",
+        "title":"Consulting",
+        "heading":"50+ Courses Available",
+        "icon":"/catagories/col9.svg"
+    }
+]
