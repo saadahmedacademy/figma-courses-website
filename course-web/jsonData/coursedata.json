@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "UX/UI Design 201",
+    "level": "Design",
+    "icon": "/ourCourses/cor1.svg"
+  },
+  {
+    "id": "2",
+    "title": "Introduction to Python",
+    "level": "Progremming",
+    "icon": "/ourCourses/cor2.svg"
+  },
+  {
+    "id": "3",
+    "title": "Data Analysis for Beginners",
+    "level": "Business",
+    "icon": "/ourCourses/cor3.svg"
+  },
+  {
+    "id": "4",
+    "title": "Art Specialization",
+    "level": "Art",
+    "icon": "/ourCourses/cor4.svg"
+  },
+  {
+    "id": "5",
+    "title": "Rule of Law",
+    "level": "Law",
+    "icon": "/ourCourses/cor5.svg"
+  },
+  {
+    "id": "6",
+    "title": "Introduction to webflow",
+    "level": "Tech",
+    "icon": "/ourCourses/cor6.svg"
+  }
+]

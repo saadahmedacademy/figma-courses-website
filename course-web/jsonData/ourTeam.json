@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "James Nduku",
+    "nich": "Marketing Coordinator",
+    "image": "/teamworkers/member1.svg"
+  },
+  {
+    "id": "2",
+    "name": "Joseph Munyambu",
+    "nich": "Nursing Assistant",
+    "image": "/teamworkers/member2.svg"
+  },
+  {
+    "id": "3",
+    "name": "Joseph Ngumbau",
+    "nich": "Medical Assistant",
+    "image": "/teamworkers/member3.svg"
+  },
+  {
+    "id": "4",
+    "name": "Erick Kipkemboi",
+    "nich": "Web Designer",
+    "image": "/teamworkers/member4.svg"
+  },
+  {
+    "id": "5",
+    "name": "Stephen Kerubo",
+    "nich": "President of Sales",
+    "image": "/teamworkers/member5.svg"
+  },
+  {
+    "id": "6",
+    "name": "John Leboo",
+    "nich": "Dog Trainer",
+    "image": "/teamworkers/member6.svg"
+  }
+]
