@@ -6,7 +6,7 @@ import { IoMenu } from "react-icons/io5";
 export const Navbar = () => {
   return (
     <>
-      <header className="text-black body-font bg-[#F7F7F7]">
+      <header className="text-black body-font bg-[#F7F7F7] border-b border-gray-500">
         <div className="container mx-auto flex lg:flex lg:flex-row md:flex-col md:gap-1 justify-between md:justify-evenly p-5 items-center">
           <a className="flex title-font font-medium items-center mb-4 md:mb-0">
             <Image alt="logo" src={"/logo.svg"} width="150" height="150" />
