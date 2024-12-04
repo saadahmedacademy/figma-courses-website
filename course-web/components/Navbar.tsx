@@ -6,7 +6,7 @@ import { IoMenu } from "react-icons/io5";
 export const Navbar = () => {
   return (
     <>
-      <header className="text-black body-font bg-[#F7F7F7] border-b border-gray-500">
+      <header className="text-black body-font bg-[#F7F7F7]  lg:h-[6rem] md:h-[8rem] h-[5rem] border-b border-gray-500 fixed w-full">
         <div className="container mx-auto flex lg:flex lg:flex-row md:flex-col md:gap-1 justify-between md:justify-evenly p-5 items-center">
           <a className="flex title-font font-medium items-center mb-4 md:mb-0">
             <Image alt="logo" src={"/logo.svg"} width="150" height="150" />
@@ -14,22 +14,22 @@ export const Navbar = () => {
 
           <div className=" hidden md:flex justify-between ld:gap-10 md:gap-5 gap-2 bg-white rounded-lg px-4 py-1 items-center none ">
             <nav className="md:mx-auto flex flex-wrap items-center gap-1 md:gap-4 lg:gap-8 text-base justify-center">
-              <a className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
+              <a href="/" className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
                 Home
               </a>
-              <a className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
+              <a href="#courses" className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
                 Couses
               </a>
-              <a className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
+              <a href="#services" className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
                 Services
               </a>
-              <a className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
+              <a href="#achievement" className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
                 Achievement
               </a>
-              <a className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
+              <a href="#aboutus" className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
                 About Us
               </a>
-              <a className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
+              <a href="#ourteam" className="hover:pb-2 hover:border-b-2 hover:border-blue-600">
                 Testimonial
               </a>
             </nav>

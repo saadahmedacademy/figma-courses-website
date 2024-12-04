@@ -4,7 +4,7 @@ import ourCategories from "@/jsonData/categories.json";
 
 export const CourseCategories = () => {
   return (
-    <div className="container mx-auto flex flex-col w-full p-3">
+    <div id="services" className=" mx-auto flex flex-col w-full px-2 md:px-8 py-7 min-h-screen">
       <section className="flex flex-col gap-3 mx-auto py-11">
         <h1 className="font-bold lg:text-4xl md:text-2xl text-xl font-sans text-black text-start">
           Explore Courses By Category
@@ -40,6 +40,11 @@ export const CourseCategories = () => {
           <p className="text-center text-gray-500">No categories available.</p>
         )}
       </section>
+      <div className="mx-auto my-14">
+        <button className=" hover:-translate-y-1 transition duration-[0.5s]  inline-flex items-center border-black border rounded-lg py-2 px-5 hover:bg-black hover:text-white hover:border-black text-base mt-4 md:mt-0">
+          View all courses
+        </button>
+      </div>
     </div>
   );
 };

@@ -5,9 +5,9 @@ import React from "react";
 export const HeroSection = () => {
   return (
     <>
-      <section className="text-black bg-white body-font">
+      <section className="text-black bg-white body-font lg:pt-[6rem] pt-32">
         <div className="container flex ml-auto justify-around md:pl-24 pb-1 md:flex-row flex-col items-center">
-          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 pt-6 px-4 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center ">
+          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-8 pt-6 px-4 flex-col md:items-start  md:text-left mb-16 md:mb-0 items-center text-center ">
             <h1 className=" sm:text-4xl text-3xl mb-4 font-bold text-start">
               Learn new skills {""}
               <br className="hidden lg:inline-block" />
