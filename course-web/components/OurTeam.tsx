@@ -7,7 +7,7 @@ import { FaLinkedin, FaTwitter } from "react-icons/fa";
 export  const OurTeam = () => {
     return (
     <>
-    <div className=" h-[895px] w-full mx-auto flex flex-col mb-12 p-3 mt-5 bg-[#F7F7F7]" id="ourteam">
+    <div className=" h-[895px] w-full mx-auto flex flex-col px-3 pb-32 bg-[#F7F7F7]" id="ourteam">
       {/* Section Header */}
       <section className="flex flex-col gap-3 mx-auto py-11">
         <h1 className="font-bold lg:text-4xl md:text-2xl text-xl font-sans text-black text-center">

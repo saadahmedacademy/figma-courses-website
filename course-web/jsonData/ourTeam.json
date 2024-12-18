@@ -3,36 +3,42 @@
     "id": "1",
     "name": "James Nduku",
     "nich": "Marketing Coordinator",
-    "image": "/teamworkers/member1.svg"
+    "image": "/teamworkers/member1.svg",
+    "testimonial": "The insights I gained here completely transformed my approach to marketing. Highly recommended!"
   },
   {
     "id": "2",
     "name": "Joseph Munyambu",
     "nich": "Nursing Assistant",
-    "image": "/teamworkers/member2.svg"
+    "image": "/teamworkers/member2.svg",
+    "testimonial": "This experience taught me invaluable skills that have improved my caregiving and made me more confident."
   },
   {
     "id": "3",
     "name": "Joseph Ngumbau",
     "nich": "Medical Assistant",
-    "image": "/teamworkers/member3.svg"
+    "image": "/teamworkers/member3.svg",
+    "testimonial": "The lessons were practical and easy to apply in my daily work. A game-changer for medical professionals!"
   },
   {
     "id": "4",
     "name": "Erick Kipkemboi",
     "nich": "Web Designer",
-    "image": "/teamworkers/member4.svg"
+    "image": "/teamworkers/member4.svg",
+    "testimonial": "The design principles I learned have helped me create more user-friendly and visually stunning websites."
   },
   {
     "id": "5",
     "name": "Stephen Kerubo",
     "nich": "President of Sales",
-    "image": "/teamworkers/member5.svg"
+    "image": "/teamworkers/member5.svg",
+    "testimonial": "This program boosted our sales strategies and led to a significant increase in client satisfaction."
   },
   {
     "id": "6",
     "name": "John Leboo",
     "nich": "Dog Trainer",
-    "image": "/teamworkers/member6.svg"
+    "image": "/teamworkers/member6.svg",
+    "testimonial": "The training techniques I acquired have made me a better communicator with both dogs and their owners."
   }
 ]
