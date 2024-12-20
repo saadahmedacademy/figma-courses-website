@@ -67,7 +67,8 @@ export const Reviews = () => {
               </div>
             ))}
           </div>
-
+         
+         <div>
           {/* Navigation Dots */}
           <div className="flex gap-2">
             {ourTeam.map((_, index) => (
@@ -87,7 +88,7 @@ export const Reviews = () => {
               onClick={handlePrev}
               className="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400"
             >
-              Prev
+              Previ
             </button>
             <button
               onClick={handleNext}
@@ -95,6 +96,7 @@ export const Reviews = () => {
             >
               Next
             </button>
+          </div>
           </div>
         </section>
       </main>
