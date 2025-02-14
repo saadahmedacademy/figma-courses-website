@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React from "react";
 
 export const Achievement = () => {
   interface AchievementDataType {
@@ -8,7 +8,7 @@ export const Achievement = () => {
     itemsName: string;
   }
 
-  const [achievement, setAchievement] = useState<AchievementDataType[]>([
+  const achievement : AchievementDataType[] = [
     {
       id: "1",
       count: "+200",
@@ -29,7 +29,7 @@ export const Achievement = () => {
       count: "+100",
       itemsName: "Recognition",
     },
-  ]);
+  ];
 
   return (
     <div className="container mx-auto flex flex-col w-full p-3 mt-5 h-[488px]" id="achievement">

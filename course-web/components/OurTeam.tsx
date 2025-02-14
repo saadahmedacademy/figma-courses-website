@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import showOurTeam from "@/jsonData/ourTeam.json"
 import Image from "next/image";
 import { TbWorld } from "react-icons/tb";
